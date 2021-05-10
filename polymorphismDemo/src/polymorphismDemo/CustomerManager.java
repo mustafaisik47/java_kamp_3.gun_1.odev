@@ -7,7 +7,7 @@ public class CustomerManager{
 		this.logger = logger;
 	}
 	public void add() {
-		System.out.println("Müþteri eklendi");
-		this.logger.log("Log mesajý");
+		System.out.println("MÃ¼steri eklendi");
+		this.logger.log("Log mesajÃ½");
 	}
 }
